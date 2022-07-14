@@ -1,0 +1,298 @@
+[
+  {
+    "_id": "523a28912f8fb814b56fa18c",
+    "name": "The Sea Explorer",
+    "prepTime": 7,
+    "serves": 3,
+    "spiciness": "mild",
+    "mealCourse": "entrée",
+    "mealType": "veg",
+    "price": 497,
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "imageCover": "tour-2-cover.jpg",
+    "atLocations": [
+      {
+        "_id": "523a28912f8fb814b56fa11c",
+        "description": "Lummus Park Beach",
+        "type": "Point",
+        "coordinates": [-80.128473, 25.781842]
+      },
+      {
+        "_id": "523a28912f8fb814b56fa12c",
+        "description": "Islamorada",
+        "type": "Point",
+        "coordinates": [-80.647885, 24.909047]
+      },
+      {
+        "_id": "523a28912f8fb814b56fa13c",
+        "description": "Sombrero Beach",
+        "type": "Point",
+        "coordinates": [-81.0784, 24.707496]
+      },
+      {
+        "_id": "523a28912f8fb814b56fa14c",
+        "description": "West Key",
+        "type": "Point",
+        "coordinates": [-81.768719, 24.552242]
+      }
+    ]
+  },
+  {
+    "_id": "523a28912f8fb814b56fa18d",
+    "name": "The Forest Hiker",
+    "prepTime": 5,
+    "serves": 25,
+    "spiciness": "fire",
+    "ratingsAverage": 4.6,
+    "ratingsQuantity": 9,
+    "mealCourse": "entrée",
+    "mealType": "veg",
+    "price": 397,
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "imageCover": "tour-1-cover.jpg",
+    "atLocations": [
+      {
+        "_id": "523a28912f8fb814b56fa11d",
+        "description": "Banff National Park",
+        "type": "Point",
+        "coordinates": [-116.214531, 51.417611]
+      },
+      {
+        "_id": "523a28912f8fb814b56fa12d",
+        "description": "Jasper National Park",
+        "type": "Point",
+        "coordinates": [-118.076152, 52.875223]
+      },
+      {
+        "_id": "523a28912f8fb814b56fa13d",
+        "description": "Glacier National Park of Canada",
+        "type": "Point",
+        "coordinates": [-117.490309, 51.261937]
+      }
+    ]
+  },
+  {
+    "_id": "523a28912f8fb814b56fa18e",
+    "name": "The Snow Adventurer",
+    "prepTime": 4,
+    "serves": 10,
+    "spiciness": "moderate",
+    "mealCourse": "entrée",
+    "mealType": "veg",
+    "price": 997,
+    "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!\nDolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur, exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit!",
+    "imageCover": "tour-3-cover.jpg",
+    "atLocations": [
+      {
+        "_id": "523a28912f8fb814b56fa11e",
+        "description": "Aspen Highlands",
+        "type": "Point",
+        "coordinates": [-106.855385, 39.182677]
+      },
+      {
+        "_id": "523a28912f8fb814b56fa12e",
+        "description": "Beaver Creek",
+        "type": "Point",
+        "coordinates": [-106.516623, 39.60499]
+      }
+    ]
+  },
+  {
+    "_id": "523a28912f8fb814b56fa18f",
+    "name": "The Park Camper",
+    "prepTime": 10,
+    "serves": 15,
+    "spiciness": "moderate",
+    "mealCourse": "entrée",
+    "mealType": "veg",
+    "price": 1497,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!",
+    "imageCover": "tour-5-cover.jpg",
+    "atLocations": [
+      {
+        "_id": "523a28912f8fb814b56fa11f",
+        "description": "Zion Canyon National Park",
+        "type": "Point",
+        "coordinates": [-112.987418, 37.198125]
+      },
+      {
+        "_id": "523a28912f8fb814b56fa12f",
+        "description": "Antelope Canyon",
+        "type": "Point",
+        "coordinates": [-111.376161, 36.86438]
+      },
+      {
+        "_id": "523a28912f8fb814b56fa13f",
+        "description": "Grand Canyon National Park",
+        "type": "Point",
+        "coordinates": [-112.115763, 36.058973]
+      },
+      {
+        "_id": "523a28912f8fb814b56fa14f",
+        "description": "Joshua Tree National Park",
+        "type": "Point",
+        "coordinates": [-116.107963, 34.011646]
+      }
+    ]
+  },
+  {
+    "_id": "523a28912f8fb814b56fa18a",
+    "name": "The City Wanderer",
+    "prepTime": 9,
+    "serves": 20,
+    "spiciness": "mild",
+    "mealCourse": "entrée",
+    "mealType": "veg",
+    "price": 1197,
+    "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat lorem ipsum dolor sit amet.\nConsectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur, nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat!",
+    "imageCover": "tour-4-cover.jpg",
+    "atLocations": [
+      {
+        "_id": "523a28912f8fb814b56fa11a",
+        "description": "New York",
+        "type": "Point",
+        "coordinates": [-73.967696, 40.781821]
+      },
+      {
+        "_id": "523a28912f8fb814b56fa12a",
+        "description": "Los Angeles",
+        "type": "Point",
+        "coordinates": [-118.324396, 34.097984]
+      },
+      {
+        "_id": "523a28912f8fb814b56fa13a",
+        "description": "San Francisco",
+        "type": "Point",
+        "coordinates": [-122.408865, 37.787825]
+      }
+    ]
+  },
+  {
+    "_id": "523a28912f8fb814b56fa181",
+    "name": "The Sports Lover",
+    "prepTime": 14,
+    "serves": 8,
+    "spiciness": "fire",
+    "mealCourse": "entrée",
+    "mealType": "veg",
+    "price": 2997,
+    "description": "Nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\nVoluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur!",
+    "imageCover": "tour-6-cover.jpg",
+    "atLocations": [
+      {
+        "_id": "523a28912f8fb814b56fa111",
+        "description": "Point Dume Beach",
+        "type": "Point",
+        "coordinates": [-118.809361, 34.003098]
+      },
+      {
+        "_id": "523a28912f8fb814b56fa121",
+        "description": "Venice Skate Park",
+        "type": "Point",
+        "coordinates": [-118.47549, 33.987367]
+      },
+      {
+        "_id": "523a28912f8fb814b56fa131",
+        "description": "San Diego Skydive",
+        "type": "Point",
+        "coordinates": [-116.830104, 33.022843]
+      },
+      {
+        "_id": "523a28912f8fb814b56fa141",
+        "description": "Kern River Rafting",
+        "type": "Point",
+        "coordinates": [-118.4547, 35.710359]
+      },
+      {
+        "_id": "523a28912f8fb814b56fa151",
+        "description": "Yosemite National Park",
+        "type": "Point",
+        "coordinates": [-119.600492, 37.742371]
+      }
+    ]
+  },
+  {
+    "_id": "523a28912f8fb814b56fa182",
+    "name": "The Star Gazer",
+    "prepTime": 9,
+    "serves": 8,
+    "spiciness": "moderate",
+    "mealCourse": "entrée",
+    "mealType": "veg",
+    "price": 2997,
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "imageCover": "tour-8-cover.jpg",
+    "atLocations": [
+      {
+        "_id": "523a28912f8fb814b56fa112",
+        "description": "Natural Bridges National Monument",
+        "type": "Point",
+        "coordinates": [-109.99953, 37.629017]
+      },
+      {
+        "_id": "523a28912f8fb814b56fa122",
+        "description": "Horseshoe Bend",
+        "type": "Point",
+        "coordinates": [-111.50954, 36.883269]
+      },
+      {
+        "_id": "523a28912f8fb814b56fa132",
+        "description": "Death Valley National Park",
+        "type": "Point",
+        "coordinates": [-117.07399, 36.501435]
+      }
+    ]
+  },
+  {
+    "_id": "523a28912f8fb814b56fa18b",
+    "name": "The Northern Lights",
+    "prepTime": 3,
+    "serves": 12,
+    "spiciness": "mild",
+    "mealCourse": "entrée",
+    "mealType": "veg",
+    "price": 1497,
+    "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!\nDolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur, exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit!",
+    "imageCover": "tour-9-cover.jpg",
+    "atLocations": [
+      {
+        "_id": "523a28912f8fb814b56fa11b",
+        "description": "Yellowknife",
+        "type": "Point",
+        "coordinates": [-114.406097, 62.439943]
+      }
+    ]
+  },
+  {
+    "_id": "523a28912f8fb814b56fa183",
+    "name": "The Wine Taster",
+    "prepTime": 5,
+    "serves": 8,
+    "spiciness": "mild",
+    "mealCourse": "entrée",
+    "mealType": "veg",
+    "price": 1997,
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "imageCover": "tour-7-cover.jpg",
+    "atLocations": [
+      {
+        "_id": "523a28912f8fb814b56fa113",
+        "description": "Beringer Vineyards",
+        "type": "Point",
+        "coordinates": [-122.479887, 38.510312]
+      },
+      {
+        "_id": "523a28912f8fb814b56fa123",
+        "description": "Clos Pegase Winery & Tasting Room",
+        "type": "Point",
+        "coordinates": [-122.582948, 38.585707]
+      },
+      {
+        "_id": "523a28912f8fb814b56fa133",
+        "description": "Raymond Vineyard and Cellar",
+        "type": "Point",
+        "coordinates": [-122.434697, 38.482181]
+      }
+    ]
+  }
+]
